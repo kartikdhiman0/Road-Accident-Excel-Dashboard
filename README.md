@@ -1,4 +1,5 @@
 #  Road Accident Dashboard   
+![Accident](https://github.com/user-attachments/assets/43b38cf5-7f2c-41d2-a628-9c3227c8f4e3)
 
 This project is an interactive **Road Accident Dashboard** built in **Microsoft Excel**, providing deep insights into accident data. The dashboard helps in analyzing accident trends, casualties, and road conditions to identify patterns and improve road safety.  
 
